@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse de Tweets - RAG System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Analyse de Tweets avec RAG</h1>
+            <p>Posez vos questions sur les tweets et obtenez des réponses intelligentes</p>
+        </header>
+
+        <main>
+            <div class="chat-container">
+                <div id="chat-messages" class="chat-messages">
+                    <!-- Les messages seront ajoutés ici dynamiquement -->
+                </div>
+                
+                <div class="input-container">
+                    <textarea id="user-input" placeholder="Posez votre question ici..." rows="3"></textarea>
+                    <button id="send-button">Envoyer</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by OpenAI GPT & ChromaDB</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 

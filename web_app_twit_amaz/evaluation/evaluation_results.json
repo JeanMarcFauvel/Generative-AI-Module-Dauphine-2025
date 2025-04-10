@@ -1,0 +1,363 @@
+{
+  "results": [
+    {
+      "question": "My partner’s @115888 was hacked- what’s the fastest way to get it back? @SpotifyCares",
+      "expected_answer": "@596569 Hey Brian, help's here! Can you DM us your partner's account email address? We'll take a look backstage /SJ https://t.co/ldFdZRiNAt",
+      "generated_answer": "The fastest way to recover a hacked account on Spotify is to contact Spotify Support directly. Your partner can do this by sending a direct message to @SpotifyCares on Twitter and providing them with the necessary information about the hacked account. They will guide your partner through the account recovery process and help them regain access to their account.",
+      "response_time": 1.4708552360534668,
+      "similarity": 0.421186822708941
+    },
+    {
+      "question": "@SpotifyCares It's not caring to charge for an unsupported service, wasted money, #dumbme",
+      "expected_answer": "@405918 Hey there! Is your Spotify misbehaving? What issues are you having and on what device? Let us know - we'll help out /SY",
+      "generated_answer": "Il semble que l'utilisateur ait rencontré des problèmes avec Spotify concernant le téléchargement des chansons sur données cellulaires malgré avoir désactivé ce paramètre et avoir été facturé pour ce service non pris en charge. L'utilisateur mentionne avoir perdu de l'argent à cause de cette situation. Il est clair qu'il est frustré par la situation et qu'il considère que Spotify n'a pas bien pris soin de ses besoins.",
+      "response_time": 2.0596070289611816,
+      "similarity": 0.39339157592156976
+    },
+    {
+      "question": "Ho punaise ! @129009 ! Forza Horizon 3 et #Forza7 en 4K incoming !!! Cc @120533 https://t.co/utFuwRwpfW",
+      "expected_answer": "@227701 Joseph 😍😍 Profitez-en un max !!  Que le jeu commence !  ^SA",
+      "generated_answer": "Désolé, mais cela semble être un nouveau tweet sans rapport avec les messages précédents. Comment puis-je vous aider avec ce nouveau tweet ?",
+      "response_time": 1.3359160423278809,
+      "similarity": 0.21339257466045025
+    },
+    {
+      "question": "@115888 i keep getting this pop-up when there's even no other device around. I'm playing my playlist and then it accepts connection without me touching the screen. this happens with and without wifi and/or bt. I have the latest version of the iphone app. https://t.co/HqeqLMJ0cj",
+      "expected_answer": "@641290 Hey there! That doesn't look good. Could you send us a DM with your account's email address? We'll take a look backstage /QI https://t.co/ldFdZRiNAt",
+      "generated_answer": "Il semble que vous rencontriez des problèmes de connexion automatique sur votre application iPhone. Pour résoudre ce problème, vous pouvez essayer les étapes suivantes :\n1. Vérifiez les paramètres de l'application Spotify pour voir s'il y a des options de connexion automatique ou de détection d'appareil à désactiver.\n2. Redémarrez votre iPhone pour réinitialiser les paramètres de connexion.\n3. Assurez-vous que votre application Spotify est à jour en vérifiant s'il y a des mises à jour disponibles dans l'App Store.\n4. Si le problème persiste, contactez le support de Spotify ou d'Apple pour obtenir de l'aide supplémentaire.",
+      "response_time": 2.14613676071167,
+      "similarity": 0.1862215613809332
+    },
+    {
+      "question": "数日前にAmazonで買い物して、本日昼頃に配達完了の通知があった。\nしかし、物がない以前に家族の誰も受け取ってない。\n配送業者のデリバリープロバイダに電話してもずっと話中。\nどうなってんの",
+      "expected_answer": "@672078 ご不便をおかけしております。配達完了になっていても商品未着の場合、カスタマーサービスにてお調べします。お手数ですが、こちらからお問い合わせください。　https://t.co/J6YEizo6qC　　SM",
+      "generated_answer": "おそらく、あなたの家族やあなた自身が不在の間に、配達業者が商品を置いて帰った可能性があります。時には、配達業者が直接商品を持参しないで、不在通知を残して帰ることがあります。電話がすぐにつながらない場合は、時間をおいて再度試してみるか、Amazonカスタマーサポートに連絡して、この問題を報告してみてください。彼らは状況を調査し、適切な対応をとってくれるはずです。",
+      "response_time": 2.2645010948181152,
+      "similarity": 0.5939550776681243
+    },
+    {
+      "question": "@AmazonHelp pathetic service, not expected from.such a brand. Ordered phone 15 days back and no revert from them.",
+      "expected_answer": "@207732 Sorry about the bad experience, Saurabh. Could you please tell us exactly what went wrong? ^SK",
+      "generated_answer": "Le client se plaint du service pathétique reçu de la part des représentants du service client d'Amazon. Il mentionne également qu'il n'a pas reçu sa commande malgré le fait qu'elle soit en transit depuis 6 jours et que les livreurs fournissent des informations erronées sur le statut de la livraison. De plus, le client n'a pas reçu de réponse du service client malgré ses tentatives de contacter Amazon. Il utilise les hashtags #amazonsucks pour exprimer sa frustration.\n\nLe client a également mentionné qu'il a commandé un téléphone il y a 15 jours et n'a pas reçu de retour de leur part. Cela montre une autre expérience négative avec le service client d'Amazon.",
+      "response_time": 2.0581178665161133,
+      "similarity": 0.300831323337216
+    },
+    {
+      "question": "@115877 do you not check where you are delivering and where card is registered. I am disgusted and appalled @Uber_Support",
+      "expected_answer": "@122726 Hey, Sam. We've responded to your DM.",
+      "generated_answer": "Il semble que l'utilisateur @115877 ait rencontré un problème avec Uber, où des frais non autorisés ont été prélevés sur son compte lorsqu'il a utilisé le service. Il semble qu'il soit frustré par le manque de sécurité et de contrôle de la part d'Uber, ce qui explique sa réaction indignée.",
+      "response_time": 1.3405070304870605,
+      "similarity": 0.2087055804600183
+    },
+    {
+      "question": "Amazonさん、徳用スナップ安いから買ったのに２週間以上経った今日も届きませんよ？",
+      "expected_answer": "@145250 ご注文商品のお届けについてご心配をおかけしております。ご案内しておりますお届け予定日の最終日を経過している場合は、お手数ですがAmazonが発送する場合→https://t.co/J6YEizo6qC 、出品者が発送する場合→https://t.co/ZXCXcbN3Tv をご参照の上お問い合わせください。SK",
+      "generated_answer": "お届けが遅れてしまって申し訳ございません。注文した商品が在庫切れや配送の遅延などの理由で遅れている可能性があります。Amazonのサポートセンターに問い合わせて、詳細な状況を確認してみることをおすすめします。その際、注文番号や商品の詳細などを共有するとスムーズに対応してもらえるかもしれません。",
+      "response_time": 2.2645609378814697,
+      "similarity": 0.6680927192129281
+    },
+    {
+      "question": "@115888 someone is hacking my account; Why can't I readily find a support phone # or email to fix it? It's shitty and you know it.",
+      "expected_answer": "@364275 2: in touch with our Email team at https://t.co/XGIC7aZtMa. Let us know how you'd like to proceed /AU",
+      "generated_answer": "Désolé d'apprendre que votre compte a été piraté. Pour obtenir de l'aide immédiate, vous pouvez contacter le support de la plateforme sur laquelle votre compte a été piraté. Vous pouvez généralement trouver les coordonnées du support sur leur site web officiel. Assurez-vous de fournir autant de détails que possible pour accélérer le processus de résolution du problème.",
+      "response_time": 1.8514268398284912,
+      "similarity": 0.2931458076585018
+    },
+    {
+      "question": "@AppleSupport mate why does my phone keep beeping like a fire alarm ???",
+      "expected_answer": "@543124 Let’s look into this together. So that we can explore the best options for your region, DM the country you’re messaging us from. https://t.co/GDrqU22YpT",
+      "generated_answer": "Il semble que tu rencontres un problème avec ton appareil Apple qui émet des sons de manière continue et agaçante, similaire à une alarme incendie. Tu peux contacter le service client d'Apple (@AppleSupport) pour obtenir de l'aide. Il est possible que ce problème soit lié à une notification ou un dysfonctionnement de l'appareil, et l'équipe d'assistance pourra t'aider à identifier la cause et à résoudre le problème.",
+      "response_time": 1.607525110244751,
+      "similarity": 0.1403039514057267
+    },
+    {
+      "question": "@115850 WORST CUSTOMER SERVICE. ABSOLUTLY IRRESPONSIBLE AND SHAMELESS",
+      "expected_answer": "@184654 Apologies for the bad experience. Kindly elaborate the issue so that we can try to make things right. ^AK",
+      "generated_answer": "Il semble que @115850 a eu une expérience très négative avec le service client d'Amazon. Le tweet exprime clairement la frustration et le mécontentement face à une commande confirmée qui a été annulée de manière unilatérale sans explication, conduisant à qualifier le service client de \"PIRE SERVICE CLIENT. ABSOLUMENT IRRESPONSABLE ET SANS HONTE\".",
+      "response_time": 2.3665101528167725,
+      "similarity": 0.38721797819247417
+    },
+    {
+      "question": "@115873 #UberIndia has absolutely failed in getting back our #Uber account hacked by someone. This is an insult to #Uber @27090 @146956",
+      "expected_answer": "@402442 Here to help, Kalla. We see your DM and will be in touch shortly.",
+      "generated_answer": "Il semble que @115873 ait rencontré des problèmes avec son compte Uber en Inde, qui a été piraté. Malgré les tentatives de contacter le support d'Uber, aucun rétablissement du compte ou réponse satisfaisante n'a été reçu depuis 24 heures. Cela signifie qu'Uber India a échoué dans la résolution de ce problème et n'a pas pris les mesures nécessaires pour aider @115873 à récupérer son compte piraté. C'est effectivement une situation décevante et une insulte à la fois pour Uber et pour @115873.",
+      "response_time": 2.2634592056274414,
+      "similarity": 0.1979784474114302
+    },
+    {
+      "question": "My @115821 order said it had guaranteed delivery on Nov. 22nd but has not even been shipped... what’s up with that?",
+      "expected_answer": "@769255 Sorry for the delay, Kaitlin! Have we sent you an e-mail with an updated delivery date? You can check that here: https://t.co/2IHxMGT60b If not, please reach out to us here so that we can investigate the delay: https://t.co/hApLpMlfHN ^EA",
+      "generated_answer": "It seems like there have been some issues with the delivery of your @115821 order. The tweet indicates frustration with a delayed delivery that was supposed to arrive on November 22nd but has not even been shipped yet. It may be helpful to contact the customer service or support team of the company from which the order was made to inquire about the status of the order and seek assistance in getting it delivered on time.",
+      "response_time": 1.543888807296753,
+      "similarity": 0.550640764097651
+    },
+    {
+      "question": "@AmazonHelp @120533  Je n'arrive pas à payer avec mon code de réduction de 100%, possibilité de m'aider svp ? https://t.co/xDOU6KbXE3",
+      "expected_answer": "@652649 Bonjour, désolée pour cela, avez-vous bien vérifié que votre solde couvre le montant total de la commande incluant les frais de port je vous prie ? \n^KE",
+      "generated_answer": "Désolé, je suis un assistant textuel et je ne peux pas accéder aux liens ou aux codes promotionnels. Cependait, je vous conseille de contacter directement le service client d'Amazon pour obtenir de l'aide avec votre code de réduction et pouvoir finaliser votre paiement. Vous pouvez les contacter sur Twitter en leur envoyant un tweet ou en leur envoyant un message privé.",
+      "response_time": 1.54001784324646,
+      "similarity": 0.49424556575735523
+    },
+    {
+      "question": "@115858 tell me why my phone randomly became a piece of shit and stopped working half the time just as you release a new phone....",
+      "expected_answer": "@598680 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT",
+      "generated_answer": "Il semble que les utilisateurs se plaignent de problèmes avec leur téléphone après avoir installé la dernière mise à jour d'iOS. Il est possible que cette mise à jour ait introduit des bugs ou des problèmes de compatibilité qui affectent les performances des téléphones. Les utilisateurs se plaignent de dysfonctionnements tels que le gel de l'appareil ou le non-fonctionnement de certaines fonctionnalités. Il est suggéré qu'il pourrait y avoir un lien entre la sortie de la nouvelle mise à jour d'iOS et les problèmes signalés par les utilisateurs.",
+      "response_time": 2.1065351963043213,
+      "similarity": 0.1406073105440491
+    },
+    {
+      "question": "amazon businessに登録できた！個人事業主だけど20分ほどですぐに承認おりました。嬉しい！",
+      "expected_answer": "@684972 amazon businessへのご登録ありがとうございます(＾◇＾)\n引き続き、Amazonをよろしくお願いします。TY",
+      "generated_answer": "素晴らしいニュースですね！おめでとうございます！Amazon businessに登録できることで、ビジネスの活動がスムーズに進むことでしょう。承認が素早く行われて安心できたことも良かったですね。どんな商品を購入するか楽しみですね！",
+      "response_time": 5.787704706192017,
+      "similarity": 0.6101179024606018
+    },
+    {
+      "question": "@SpotifyCares send Majid Jordan presale code pls",
+      "expected_answer": "@549202 Hi Nate! Pre-sale codes are being sent out by email to some of Majid Jordan's biggest fans on Spotify. Hopefully you're one of them /DV",
+      "generated_answer": "Je suis désolé, je ne dispose pas d'assez d'informations pour trouver le presale code demandé. Vous devriez contacter directement @SpotifyCares via DM comme indiqué dans les tweets, pour obtenir de l'aide avec le code de présale.",
+      "response_time": 1.5391449928283691,
+      "similarity": 0.4743797976627157
+    },
+    {
+      "question": "@115877 so I’ve never used the app before but I’m trying to place an order and it’s asking me to settle a previous balance? https://t.co/QrOATYPmZk",
+      "expected_answer": "@204183 Here to help. Send us a note at https://t.co/3eYc7uUEUm so our team can connect.",
+      "generated_answer": "Il semble y avoir une confusion dans le système si l'utilisateur @115877 n'a jamais utilisé l'application mais se voit demander de régler un solde précédent. Il pourrait s'agir d'une erreur technique ou d'un problème lié au compte. Je recommande à l'utilisateur @115877 de contacter le service client de l'application pour résoudre ce problème et clarifier la situation.",
+      "response_time": 1.6398670673370361,
+      "similarity": 0.2579617121125126
+    },
+    {
+      "question": "hey @115888 can i get a profile photo without a facebook account or nah?",
+      "expected_answer": "@183032 Hey there! Right now it's not possible, and we have some info about this from our devs here: http://t.co/Wahm6K8Adr /CT",
+      "generated_answer": "D'après le contexte fourni, il semblerait que l'utilisateur souhaite obtenir un profil photo sans avoir de compte Facebook lié à son compte. Je peux lui recommander de contacter le support de @SpotifyCares pour obtenir de l'aide concernant la déconnexion de son compte Facebook et pour mieux comprendre les options disponibles pour obtenir une photo de profil séparée de Facebook.",
+      "response_time": 2.26945424079895,
+      "similarity": 0.20179184155175756
+    },
+    {
+      "question": "@144886..Y do u not teach ur drivers how 2 properly pull over 2 pick someone up?! U guys r just as bad as cabbies w/ none of the courtesy!",
+      "expected_answer": "@185134 Sorry to hear about the trouble, Sergio. Please reach out via in-app Help with more details, and a member of our team will follow up.",
+      "generated_answer": "Il semble que @144886 soit également une entreprise de services de transport comme celle mentionnée dans les autres tweets. L'utilisateur se plaint du manque de courtoisie des conducteurs de cette entreprise lorsqu'ils viennent chercher des passagers. Il demande pourquoi l'entreprise ne forme pas ses conducteurs à se garer correctement pour prendre en charge des clients, les comparant négativement aux chauffeurs de taxi.",
+      "response_time": 1.519672155380249,
+      "similarity": 0.2680475460367938
+    },
+    {
+      "question": "Ugh @115821 why doesn't your customer service know how to do their job.",
+      "expected_answer": "@448877 Oh no, Josh! Without giving account details, please tell us more about what happened! ^BE",
+      "generated_answer": "Il semble que l'utilisateur @115821 rencontre des problèmes avec le service client de l'entreprise mentionnée. Il semble y avoir des retards dans la livraison des colis et des réponses insatisfaisantes du service client. Il est clair que l'utilisateur n'est pas satisfait du niveau de service offert par cette entreprise.",
+      "response_time": 3.8118069171905518,
+      "similarity": 0.25467081041452266
+    },
+    {
+      "question": "@AmazonHelp don't understand why you lot keep takin a pound  from my account when I haven't ordered anything https://t.co/fxJptH47b8",
+      "expected_answer": "@446940 Usually £1.00 showing on your account is to confirm the validity of your payment card. Read more here:https://t.co/6tpDpON5UG ^ZW",
+      "generated_answer": "Il semble que l'utilisateur ait un problème avec des débits non autorisés sur son compte Amazon. Il est préoccupé par des débits de 1 livre sterling qui ont eu lieu même s'il n'a rien commandé. Il est recommandé à l'utilisateur de contacter @AmazonHelp pour expliquer la situation et demander des explications sur ces débits non autorisés. Il pourrait avoir besoin d'obtenir des informations sur les transactions en cours afin de résoudre ce problème.",
+      "response_time": 1.8497669696807861,
+      "similarity": 0.3772457648669548
+    },
+    {
+      "question": "@115873 very worst service, drivers are too assholes, they cancel rides themselves and app ask us to pay...",
+      "expected_answer": "@120042 We're sorry to hear this was your experience. Contact us via https://t.co/e8HVorX5rh and we'll be in touch.",
+      "generated_answer": "Il semble que @115873 a fait face à des annulations de courses de la part des conducteurs, ce qui a entraîné une mauvaise expérience de service. Les tweets mentionnent que les conducteurs ont annulé les courses, ont été impolis et ont parfois refusé d'annuler les réservations. Il est compréhensible que cela ait causé de la frustration pour @115873 et les autres utilisateurs qui ont partagé leurs expériences.",
+      "response_time": 2.986521005630493,
+      "similarity": 0.3679764373796097
+    },
+    {
+      "question": "It’s been a week...why can’t I stream @118062’s album on @115888 yet?",
+      "expected_answer": "@740676 Hi Kimberly, Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /BM",
+      "generated_answer": "Il est possible que l'album de @118062 n'ait pas encore été ajouté à la base de données de @115888. Parfois, il peut y avoir un délai entre la sortie d'un nouvel album et sa disponibilité sur certaines plateformes de streaming. Il peut être utile de contacter @115888 pour obtenir des informations sur la date prévue de mise en ligne de l'album de @118062.",
+      "response_time": 1.9491240978240967,
+      "similarity": 0.31304098207625675
+    },
+    {
+      "question": "@171152 @115821 Worst service, 45 days no solutions to complaint, only delay promised #WorldSmileDay #ZefoWaliDiwaliSale #sasikala",
+      "expected_answer": "@182724 Apologies for the delay. We're following up on this issue, please allow us some time and we'll reach out. ^KA",
+      "generated_answer": "D'après le contexte fourni, il semble que plusieurs utilisateurs aient eu une mauvaise expérience avec les services de plusieurs entreprises, dont @Uber_Support et @115850. Il est mentionné qu'il n'y a pas eu de réponse après 24 heures et qu'il y a eu des problèmes avec la livraison d'un colis. Ce sont des exemples de mauvais service clients.\n\nDans le tweet mentionné dans la question, l'utilisateur se plaint également d'un mauvais service client, indiquant qu'après 45 jours, il n'y a eu aucune solution à sa plainte et que seule une promesse de retard a été faite. Il semble que le client soit mécontent de l'inefficacité du service client et de la gestion de sa réclamation. Le hashtag #WorldSmileDay ainsi que les autres hashtags pourraient être utilisés de manière ironique pour souligner l'insatisfaction de l'utilisateur.",
+      "response_time": 3.912682056427002,
+      "similarity": 0.31647430403807264
+    },
+    {
+      "question": "Hey, gang. Check out the progressive attitude over at @115873\n\n(NB: seriously, what the fuck?) https://t.co/MPZQEHB4J8",
+      "expected_answer": "@487021 Oh no! Please DM us the email linked to your account so we can look into this for you. We look forward to your response.",
+      "generated_answer": "Désolé, je ne peux pas accéder au contenu des liens fournis dans les tweets. Je peux toutefois vous aider à analyser le texte des tweets eux-mêmes. N'hésitez pas à me poser des questions spécifiques sur les tweets afin que je puisse vous fournir des informations basées sur le texte.",
+      "response_time": 1.7561988830566406,
+      "similarity": 0.26394890740579907
+    },
+    {
+      "question": "@115858 I noticed my old iPhone slowing down when the new one came out...and no I wont buy a new one, but switch brand. This is ridiculous",
+      "expected_answer": "@322026 We can't wait to get your iPhone operating as needed. Which iOS version are we working with? Settings &gt; General &gt; About.",
+      "generated_answer": "Il semble que l'utilisateur mentionné, @115858, reçoive des reproches concernant le fonctionnement de leurs appareils Apple en raison des mises à jour iOS. L'utilisateur est déçu de constater que son ancien iPhone ralentit avec l'arrivée des nouveaux modèles et envisage de passer à une autre marque à cause de cette situation.",
+      "response_time": 1.3655941486358643,
+      "similarity": 0.4459271647794729
+    },
+    {
+      "question": "@115888 do you ever respond when an account has been stolen/hijacked",
+      "expected_answer": "@202312 We’re sorry to hear that. You can check out https://t.co/QHn3ok8y2n for what to do next /CE",
+      "generated_answer": "Il semble que @115888 soit la cible d'une attaque de piratage de compte. Dans de telles situations, il est important pour la plateforme, dans ce cas Twitter, de répondre rapidement pour aider à résoudre le problème. Les utilisateurs attendent une assistance immédiate lorsqu'ils signalent un cas de piratage de compte. Par conséquent, il est crucial que @115888 réponde aux messages et prenne les mesures appropriées pour aider les victimes de piratage de compte.",
+      "response_time": 2.057619094848633,
+      "similarity": 0.2790926480802778
+    },
+    {
+      "question": "@115888 I can't change my payment method. I talked with VISA and they informed about no requisition from Spotify. Can you help me?",
+      "expected_answer": "@546772 Hey Anderson, we're here to help! Could you send us a DM with your account's email address and username? We'll take a look backstage /RV https://t.co/ldFdZRiNAt",
+      "generated_answer": "Il semble que vous ayez des difficultés à changer vos informations de paiement sur Spotify. Il est possible que le problème soit lié au pays d'origine de votre carte, comme mentionné dans le tweet initial. Vous pourriez avoir besoin de contacter directement le service client de Spotify pour obtenir de l'aide supplémentaire. Ils pourront peut-être vous guider sur la façon de résoudre ce problème spécifique lié à votre carte de paiement.",
+      "response_time": 1.8036317825317383,
+      "similarity": 0.22071400727450668
+    },
+    {
+      "question": "I’m also now getting the I️ error. Only started when I️ sent a message in FB messenger? Is there a bug/virus? @AppleSupport",
+      "expected_answer": "@515139 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "generated_answer": "Il semble qu'il y ait un problème avec l'affichage du caractère \"I️\" sur les appareils Apple. Ce problème peut être lié à la mise à jour logicielle récente. Les utilisateurs rencontrent ce problème lorsqu'ils envoient des messages sur différentes plateformes comme iMessage et Facebook Messenger. Il est conseillé de contacter @AppleSupport pour obtenir une solution ou une mise à jour concernant ce problème spécifique.",
+      "response_time": 1.6459200382232666,
+      "similarity": 0.29489898448347646
+    },
+    {
+      "question": "@115873 need help with verification codes not coming through. Phone carrier NOT blocking short codes",
+      "expected_answer": "@782421 Here to help. Send us a note at https://t.co/7noMs7ap6M so our team can connect.",
+      "generated_answer": "Il semble que l'utilisateur ait des problèmes pour recevoir des codes de vérification sur son téléphone en raison de problèmes techniques avec l'application Uber et le site web Uber Eats. Il mentionne également que son opérateur de téléphonie mobile n'interdit pas les codes courts. Il pourrait être utile de vérifier les paramètres de l'application et du site web, ainsi que de contacter le support technique d'Uber pour résoudre le problème de réception des codes de vérification.",
+      "response_time": 1.6451749801635742,
+      "similarity": 0.23544886493745357
+    },
+    {
+      "question": "@applesupport #ios11update #slow #battery draining quickly NOT an improvement. Is this a ploy to get us to buy iPhone 8?😳🙁",
+      "expected_answer": "@577275 We would love to work with you and look into this battery issue you're experiencing. Join us in DM with additional details: https://t.co/GDrqU22YpT",
+      "generated_answer": "Il est possible que certaines personnes pensent que les mises à jour iOS récentes, telles que iOS 11, ont un impact négatif sur les anciens modèles d'iPhone, comme l'iPhone 6s Plus, en provoquant une décharge rapide de la batterie. Certains pourraient même soupçonner que ces problèmes sont délibérés pour inciter les utilisateurs à acheter les nouveaux modèles d'iPhone, comme l'iPhone 8. Cependant, sans information directe de la part d'Apple ou de ses représentants, il n'est pas possible de confirmer si c'est effectivement le cas. Les utilisateurs mécontents peuvent exprimer leurs préoccupations et demander de l'aide à @AppleSupport pour résoudre les problèmes qu'ils rencontrent avec les mises à jour iOS.",
+      "response_time": 1.9949860572814941,
+      "similarity": 0.2472657250711101
+    },
+    {
+      "question": "@115888 I have premium fam acc. I have iphone and can cast ok to chromecast. Wife has iPhone and iPad on her account and having trouble ???",
+      "expected_answer": "@600742 Hey Pete! We're here to help. Can you DM us your account's email address and that of your wife? We'll take a look backstage /KT https://t.co/ldFdZRiNAt",
+      "generated_answer": "Il semble que @115888 ait une famille Spotify Premium et qu'il ait pu caster de son iPhone, mais que sa femme qui a un iPhone et un iPad sur son compte rencontre des problèmes. Il pourrait y avoir un problème de configuration ou de connectivité avec les appareils de sa femme. Je recommanderais de consulter les paramètres de compte et d'appareil pour s'assurer que tout est correct, et éventuellement contacter le support de Spotify si les problèmes persistent.",
+      "response_time": 1.8512508869171143,
+      "similarity": 0.37878717173211107
+    },
+    {
+      "question": "@115850 this is what I received in my @132995 5 order.\nPlease help! https://t.co/MexOadXhY4",
+      "expected_answer": "@146145 Please get in touch with our team using this link: https://t.co/rS49hgaADF and we'll be happy to help. ^AK (2/2)",
+      "generated_answer": "Désolé, je ne peux pas accéder aux liens externes ou aux images. Cependant, si vous avez reçu quelque chose d'inattendu dans votre commande de @132995, je vous recommande de contacter directement le service client de @132995 pour expliquer la situation et résoudre le problème. Ils devraient être en mesure de vous aider à trouver une solution satisfaisante.",
+      "response_time": 1.5197391510009766,
+      "similarity": 0.4052307851573892
+    },
+    {
+      "question": "OK but what are @116380 planning for their annual ‘your year of music’ thing? It’s my favourite time of the year! I love being outed for my trash taste!",
+      "expected_answer": "@544454 Hi there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /MT",
+      "generated_answer": "Désolé, mais je n'ai pas d'informations concernant les plans de @116380 pour leur événement annuel 'votre année de musique'. Je vous recommande de suivre leur compte et de rester à l'affût de leurs annonces pour obtenir les dernières informations à ce sujet.",
+      "response_time": 6.389740943908691,
+      "similarity": 0.3133054849578595
+    },
+    {
+      "question": "@AppleSupport can y’all fix this bug that is messing with the ability to type the letter “eye” because it just does this &gt; I️",
+      "expected_answer": "@464715 Send us a DM and let us know which device and iOS version you're using. We can address it there. https://t.co/GDrqU22YpT",
+      "generated_answer": "Il semble que les utilisateurs rencontrent un problème lorsqu'ils essaient de taper la lettre \"I️\", qui est affichée de manière incorrecte. Il semble qu'il s'agisse d'un bug qui doit être corrigé par @AppleSupport.",
+      "response_time": 1.340475082397461,
+      "similarity": 0.40000470685488587
+    },
+    {
+      "question": "The last #ios #update @115858  is eating My battery of My iPhone 7+ #applenews",
+      "expected_answer": "@668824 Let's see how we can help with this. Which iOS are you currently running on your iPhone? Please check here for the exact version: Settings &gt; General &gt; About &gt; Version.",
+      "generated_answer": "Il semble que les mises à jour iOS récentes entraînent des problèmes de batterie pour les utilisateurs. Cela concerne principalement ceux qui ont des modèles d'iPhone antérieurs comme l'iPhone 6s Plus. Il est possible que les mêmes problèmes se produisent pour l'iPhone 7 Plus suite à la dernière mise à jour mentionnée.",
+      "response_time": 1.748363971710205,
+      "similarity": 0.3908173438439185
+    },
+    {
+      "question": "@115873 first time I tried to use your app you fucked me so hard and made it impossible to get customer service help. Y'all suck I gota @115879",
+      "expected_answer": "@474369 Please DM us specific details of your concern together with your email address, so we can better assist you.",
+      "generated_answer": "Désolé, je ne peux pas traiter les tweets qui contiennent un langage inapproprié ou offensant. Souhaitez-vous poser une autre question sur un tweet spécifique ?",
+      "response_time": 0.9991621971130371,
+      "similarity": 0.3094567842599223
+    },
+    {
+      "question": "I saw this tweet last night. Today, Spotify isn't accessible on lock screen and control center. @115858? https://t.co/zrFQdRTjBJ",
+      "expected_answer": "@372508 We're here to help. Let's take this to DM so we can better assist you. https://t.co/GDrqU22YpT",
+      "generated_answer": "Il semble y avoir une erreur dans la mention de l'utilisateur. Le tweet initial mentionne @115888 et @SpotifyCares, mais l'utilisateur mentionne désormais @115858 dans sa question à propos de Spotify. Il pourrait y avoir une confusion dans les informations fournies.",
+      "response_time": 1.3945322036743164,
+      "similarity": 0.25020353434788256
+    },
+    {
+      "question": "Hey Steve I can’t add a fingerprint the page just keeps turning into this @AppleSupport https://t.co/jzuNunOrFX",
+      "expected_answer": "@251097 We want you to be able to take advantage of the security and convenience of Touch ID. Are you setting it up for the very first time, or trying to add a new fingerprint? Have you restarted normally since encountering this behavior? Let us know in DM. https://t.co/GDrqU22YpT",
+      "generated_answer": "Il semble que les utilisateurs rencontrent des problèmes pour ajouter des informations de vérification ou d'identification à leur compte iCloud/iTunes ou pour enregistrer leurs empreintes digitales sur leurs appareils Apple. Ils demandent de l'aide à @AppleSupport pour résoudre ces problèmes.",
+      "response_time": 1.1975958347320557,
+      "similarity": 0.47995093557623236
+    },
+    {
+      "question": "@Uber_Support charged twice for single trip... Highlighted issue multiple times. No response. Loot service",
+      "expected_answer": "@492314 We're here to help! Send us a DM with your email address so we can connect.",
+      "generated_answer": "Il semble que l'utilisateur ait rencontré des problèmes avec Uber, notamment le fait d'avoir été facturé deux fois pour un seul trajet, ainsi qu'une surfacturation pour un prétendu frais d'objet perdu. Malgré avoir signalé ces problèmes à plusieurs reprises à @Uber_Support, il n'y a pas eu de réponse de leur part. Cela semble indiquer un problème de service à la clientèle de la part d'Uber, où les préoccupations des utilisateurs ne sont pas prises en compte de manière satisfaisante.",
+      "response_time": 1.9511489868164062,
+      "similarity": 0.1479233366066693
+    },
+    {
+      "question": "@AmazonHelp where is my delivery?",
+      "expected_answer": "@445201 I'm sorry your delivery hasn't arrived. What's the current tracking for your order: https://t.co/aaDyEz1VgE? ^EB",
+      "generated_answer": "D'après les informations fournies, il semble que la livraison de la commande n'a pas encore été effectuée malgré le fait qu'elle aurait dû être livrée. Il est recommandé de contacter directement @AmazonHelp pour obtenir des informations précises sur l'emplacement de la livraison et pour résoudre le problème.",
+      "response_time": 1.4627571105957031,
+      "similarity": 0.4151197068127752
+    },
+    {
+      "question": "Motivos pelo qual eu amo ter um Kindle: acabei de comprar It do Stephen King por 8 fucking e míseros reais. Obrigado @117086  ❤",
+      "expected_answer": "@464342 Olá Kaique! Obrigado você! Esse é um baita livro! Bom demais! 🙄🤡🎈🖤 ^JJ",
+      "generated_answer": "Você ama ter um Kindle porque permite adquirir livros, como \"It\" do Stephen King, por um preço acessível de 8 reais, além de facilitar a leitura em um dispositivo prático e portátil. Além disso, o serviço de entrega da empresa responsável pelo seu Kindle também contribui para sua satisfação.",
+      "response_time": 2.611999988555908,
+      "similarity": 0.3648529293329008
+    },
+    {
+      "question": "@18258 Who Is Selling #Carvaan Product With Wrong Image &amp; Brand Name “SARAGAMA” Instead Of “SAREGAMA” Only In @115850 @AmazonHelp https://t.co/aE1dXJ36vf",
+      "expected_answer": "@205634 Thanks for flagging this. I'll forward this internally for review. ^PS",
+      "generated_answer": "Il semble que @18258 soit en train de signaler un problème rencontré avec un produit vendu sur Amazon, où le nom de la marque est incorrectement étiqueté comme \"SARAGAMA\" au lieu de \"SAREGAMA\". Il suggère que ce problème concerne l'utilisateur @115850 et demande l'aide de @AmazonHelp pour résoudre cette question.",
+      "response_time": 1.5452730655670166,
+      "similarity": 0.29925019801574215
+    },
+    {
+      "question": "@115850 Order # 4__credit_card__.multiple follow up but no trace of product, one month over, should I wait till new year. #WorstService",
+      "expected_answer": "@205813 Please don't provide your order details, as we consider it to be personal info. Our page is visible to the public. 3/3 ^PS",
+      "generated_answer": "Il semble que vous ayez passé une commande avec le numéro de commande 405-4047538-8095512, mais le colis n'a pas été livré comme prévu. Vous avez fait plusieurs suivis mais il n'y a aucune trace du produit, et déjà un mois s'est écoulé. Dans cette situation, il semble peu probable que le colis soit livré. Je vous recommande de contacter le service client de l'entreprise et d'expliquer la situation. Ils devraient pouvoir vous aider à résoudre ce problème, que ce soit en vous renvoyant un nouvel article, en vous remboursant ou en trouvant une autre solution. Ne pas attendre jusqu'à la nouvelle année pour agir, car il est important de régler cette question le plus tôt possible pour obtenir une résolution satisfaisante.",
+      "response_time": 2.5508201122283936,
+      "similarity": 0.26129199889981
+    },
+    {
+      "question": "@13644 my driver showed up, told me I had the wrong car ( I didn’t) and then canceled my ride in front of me while I watched. Seriously?",
+      "expected_answer": "@434215 Here to help. Send us a note at https://t.co/e8HVorX5rh so our team can connect.",
+      "generated_answer": "Je suis désolé d'apprendre cela. Vous pouvez signaler ce comportement en contactant le support client d'Uber. Vous pouvez leur indiquer la situation en mentionnant que le chauffeur a annulé le trajet de manière inappropriée et en expliquant ce qui s'est passé. Ils pourront enquêter sur l'incident et prendre les mesures appropriées.",
+      "response_time": 3.9156510829925537,
+      "similarity": 0.24420188564037343
+    },
+    {
+      "question": "@115858 I️ need this shit fixed. I*",
+      "expected_answer": "@529228 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/qODbOsp4wz",
+      "generated_answer": "Il semble que @115858 rencontre un problème avec la lettre \"I\" sur le clavier, ce qui provoque un dysfonctionnement ou un glitch. Les utilisateurs se plaignent que cela devient gênant et souhaitent une correction rapide. Il est conseillé à @115858 de résoudre au plus vite ce problème avec la lettre \"I\" sur le clavier pour satisfaire les utilisateurs.",
+      "response_time": 2.364879846572876,
+      "similarity": 0.3141755125084157
+    },
+    {
+      "question": "@AppleSupport your new update is awful. I have 6 app updates that won’t update been like that for 3 days now",
+      "expected_answer": "@527141 We'd like to help you get your apps updated. Which version of iOS is installed? Check in Settings &gt; General &gt; About &gt; Version",
+      "generated_answer": "Il semble qu'il y ait plusieurs problèmes avec la mise à jour récente d'Apple. Certains utilisateurs ont des difficultés à mettre à jour leur téléphone, à recevoir des notifications et à installer des mises à jour d'application. Ils expriment leur frustration sur les réseaux sociaux. En tant que @AppleSupport, vous pourriez offrir de l'aide en suggérant aux utilisateurs de vérifier leur connexion Internet, de redémarrer leur appareil ou d'envisager de contacter le support technique d'Apple pour obtenir une assistance supplémentaire.",
+      "response_time": 2.2610878944396973,
+      "similarity": 0.4157794865759866
+    },
+    {
+      "question": "Why can't @115821 tell me before I place a Prime order — instead of right after — that it's an item that will take more than 2 days to ship?",
+      "expected_answer": "@171996 Typically, you're provided with a delivery date before placing an order. Is this not occurring when going through check-out? ^CO",
+      "generated_answer": "@115821 may not be able to provide information about the exact shipping time before you place a Prime order because Amazon may sometimes update or change the estimated delivery time after the order is placed, based on factors like inventory availability, demand, and shipping carrier schedules. Additionally, Amazon's system may not always accurately reflect the current stock status and delivery estimates for each item until the order is processed.",
+      "response_time": 1.3351407051086426,
+      "similarity": 0.49753660754530804
+    },
+    {
+      "question": "Con iOS 11.02 ya no se están generando las notificaciones de las apps. Sólo después de abrirlas manualmente @AppleSupport",
+      "expected_answer": "@309348 We offer support via Twitter in English. Get help in Spanish here: https://t.co/IBIY3vMgPj or join https://t.co/OczyRx7IOs",
+      "generated_answer": "Parece que varios usuarios están experimentando problemas con las notificaciones de las aplicaciones después de la actualización a iOS 11.02. Puedes sugerir a @AppleSupport que revisen este problema específico con las notificaciones de las aplicaciones en iOS 11.02 y que proporcionen una solución o actualización para resolverlo. También podrías ofrecer la recomendación de reiniciar el dispositivo o verificar la configuración de notificaciones en la aplicación de cada usuario afectado.",
+      "response_time": 1.853032112121582,
+      "similarity": 0.33499000697539183
+    }
+  ],
+  "metrics": {
+    "nombre_total_questions": 50,
+    "temps_moyen_reponse": 2.120941710472107,
+    "temps_median_reponse": 1.8513388633728027,
+    "temps_min_reponse": 0.9991621971130371,
+    "temps_max_reponse": 6.389740943908691,
+    "similarite_moyenne": 0.33683597753385675,
+    "similarite_median": 0.3131732335170581
+  }
+}
